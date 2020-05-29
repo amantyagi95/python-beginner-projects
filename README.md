@@ -5,3 +5,4 @@ A collection of small Python projects.
 - Guess The Number
 - Rock Paper Scissors
 - Password Generator
+- Hangman
