@@ -6,3 +6,4 @@ A collection of small Python projects.
 - Rock Paper Scissors
 - Password Generator
 - Hangman
+- Binary Search Algorithm
